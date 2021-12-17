@@ -9,13 +9,13 @@ Depuis la page Github de ce dépôt, faire un fork de ce même dépôt.
 Puis cloner votre fork sur votre PC (avec VSCode).
 - `Shift+CMD+P` _Git Clone_ Puis _Depuis Github_
 
-- [ ] Chochez cette checkbox en plaçant un "**X**" entre les deux `[ ]` en début de ligne.
+- [X] Cochez cette checkbox en plaçant un "**X**" entre les deux `[ ]` en début de ligne.
 - Faire un commit avec le message "test commit et push"
 - Faire un push du commit sur Github.
 
 ## Principe du TP
 
-- [X] Chochez les checkbox quand demandé et/ou répondez directement dans ce document.
+- [X] Cochez les checkbox quand demandé et/ou répondez directement dans ce document.
 - Suivre les indications sur les commits et autres manipulation.
 
 L'historique git de vos commits sera la preuve que vous avez fait le TP.
