@@ -122,6 +122,8 @@ Exemple :
 test de commit amend
 voici un test de commit amend
 
+test pour deuxième squash 1
+
 # Remonter dans le temps pour trouver un "bug"
 
 - [X] décochez cette case et commit : "le bug"
