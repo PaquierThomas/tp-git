@@ -121,6 +121,9 @@ Exemple :
 
 **Editez ici**
 
+test de commit amend
+voici un test de commit amend
+
 # Remonter dans le temps pour trouver un "bug"
 
 - [X] décochez cette case et commit : "le bug"
